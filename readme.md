@@ -1,7 +1,5 @@
-#Description
-
+# Description
 A simple memory display
 
-#Run
-
+# Run
 <code>npm run start</code>
