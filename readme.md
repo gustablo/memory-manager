@@ -1,5 +1,6 @@
 # Description
-A simple memory display
+A simple CPU memory display in JS
 
-# Run
+# How to Run
+<code>npm install</code>
 <code>npm run start</code>
